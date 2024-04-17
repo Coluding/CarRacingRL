@@ -59,7 +59,6 @@ class ReplayBuffer:
 class OnPolicyMemory:
     def __init__(self, batch_size: int):
         self.states = []
-        self.next_states = []
         self.vals = []
         self.actions = []
         self.rewards = []
@@ -85,12 +84,11 @@ class OnPolicyMemory:
             batches
 
     def store_memory(self, state: np.ndarray, action: int, reward: float,
-                     state_: np.ndarray, done: bool, probs: np.ndarray, vals: np.ndarray):
+                     done: bool, probs: np.ndarray, vals: np.ndarray):
         self.states.append(state)
         self.actions.append(action)
         self.rewards.append(reward)
         self.dones.append(done)
-        self.next_states.append(state_)
         self.probs.append(probs)
         self.values.append(vals)
 

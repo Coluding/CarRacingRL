@@ -100,3 +100,598 @@
 2024-04-16 19:17:45,283 - RLTrainer - INFO - Starting game 30/300
 2024-04-16 19:24:36,913 - RLTrainer - INFO - Recording evaluation video
 2024-04-16 19:24:58,564 - RLTrainer - INFO - Recorded evaluation video at step 30
+2024-04-16 19:37:57,074 - RLTrainer - INFO - Game 30: score -738.6279625636492 ----- average score -446.66112716616624 ----- 31759 steps
+2024-04-16 19:37:57,074 - RLTrainer - INFO - Starting game 31/300
+2024-04-16 19:41:49,744 - RLTrainer - INFO - Game 31: score -282.93846153845544 ----- average score -441.3797508555949 ----- 32313 steps
+2024-04-16 19:41:49,744 - RLTrainer - INFO - Starting game 32/300
+2024-04-16 19:50:38,451 - RLTrainer - INFO - Game 32: score -554.3333333333675 ----- average score -444.90955030802536 ----- 33616 steps
+2024-04-16 19:50:38,452 - RLTrainer - INFO - Starting game 33/300
+2024-04-16 19:56:31,143 - RLTrainer - INFO - Game 33: score -340.45714285713365 ----- average score -441.74432583981655 ----- 34486 steps
+2024-04-16 19:56:31,144 - RLTrainer - INFO - Starting game 34/300
+2024-04-16 19:59:58,930 - RLTrainer - INFO - Game 34: score -240.49735099337377 ----- average score -435.82529716786235 ----- 34987 steps
+2024-04-16 19:59:58,930 - RLTrainer - INFO - Starting game 35/300
+2024-04-16 20:02:00,691 - RLTrainer - INFO - Recording evaluation video
+2024-04-16 20:02:22,009 - RLTrainer - INFO - Recorded evaluation video at step 34
+2024-04-16 20:08:46,204 - RLTrainer - INFO - Game 35: score -476.78261094581353 ----- average score -436.9955061329466 ----- 36196 steps
+2024-04-16 20:08:46,204 - RLTrainer - INFO - Starting game 36/300
+2024-04-16 20:13:14,439 - RLTrainer - INFO - Game 36: score -230.54705882352616 ----- average score -431.2608270410183 ----- 36854 steps
+2024-04-16 20:13:14,440 - RLTrainer - INFO - Starting game 37/300
+2024-04-16 20:19:44,516 - RLTrainer - INFO - Game 37: score -446.3122807017642 ----- average score -431.6676230859033 ----- 37808 steps
+2024-04-16 20:19:44,516 - RLTrainer - INFO - Starting game 38/300
+2024-04-16 20:23:25,801 - RLTrainer - INFO - Game 38: score -159.01773049645425 ----- average score -424.49262591249675 ----- 38337 steps
+2024-04-16 20:23:29,715 - RLTrainer - INFO - Models saved
+2024-04-16 20:23:29,715 - RLTrainer - INFO - Starting game 39/300
+2024-04-16 20:30:05,295 - RLTrainer - INFO - Game 39: score -426.0430604982255 ----- average score -424.5323806454642 ----- 39313 steps
+2024-04-16 20:30:05,296 - RLTrainer - INFO - Starting game 40/300
+2024-04-16 20:33:41,040 - RLTrainer - INFO - Game 40: score -267.09999999999485 ----- average score -420.59657112932746 ----- 39825 steps
+2024-04-16 20:33:41,040 - RLTrainer - INFO - Starting game 41/300
+2024-04-16 20:43:58,779 - RLTrainer - INFO - Game 41: score -601.3126934984969 ----- average score -425.00428143101453 ----- 41296 steps
+2024-04-16 20:43:58,780 - RLTrainer - INFO - Starting game 42/300
+2024-04-16 20:51:28,923 - RLTrainer - INFO - Game 42: score -444.8320284697598 ----- average score -425.47637064622273 ----- 42381 steps
+2024-04-16 20:51:28,923 - RLTrainer - INFO - Starting game 43/300
+2024-04-16 20:57:06,761 - RLTrainer - INFO - Game 43: score -368.34892086330115 ----- average score -424.14782530243383 ----- 43205 steps
+2024-04-16 20:57:06,761 - RLTrainer - INFO - Starting game 44/300
+2024-04-16 21:01:18,523 - RLTrainer - INFO - Game 44: score -260.6686274509762 ----- average score -420.432388987628 ----- 43803 steps
+2024-04-16 21:01:18,524 - RLTrainer - INFO - Starting game 45/300
+2024-04-16 21:08:17,874 - RLTrainer - INFO - Game 45: score -438.48253968254767 ----- average score -420.8335034475151 ----- 44801 steps
+2024-04-16 21:08:17,875 - RLTrainer - INFO - Starting game 46/300
+2024-04-16 21:11:09,907 - RLTrainer - INFO - Game 46: score -216.5619528619506 ----- average score -416.3928175652202 ----- 45211 steps
+2024-04-16 21:11:09,908 - RLTrainer - INFO - Starting game 47/300
+2024-04-16 21:13:05,907 - RLTrainer - INFO - Recording evaluation video
+2024-04-16 21:13:27,892 - RLTrainer - INFO - Recorded evaluation video at step 47
+2024-04-16 21:18:09,135 - RLTrainer - INFO - Game 47: score -216.75603676074158 ----- average score -412.1452264842738 ----- 46104 steps
+2024-04-16 21:18:09,136 - RLTrainer - INFO - Starting game 48/300
+2024-04-16 21:23:00,274 - RLTrainer - INFO - Game 48: score -303.64105960264243 ----- average score -409.8847230075732 ----- 46804 steps
+2024-04-16 21:23:00,275 - RLTrainer - INFO - Starting game 49/300
+2024-04-16 21:32:18,992 - RLTrainer - INFO - Game 49: score -353.76728624534667 ----- average score -408.7394691960992 ----- 48201 steps
+2024-04-16 21:32:18,993 - RLTrainer - INFO - Starting game 50/300
+2024-04-16 21:58:00,841 - RLTrainer - INFO - Game 50: score -1138.0067961167376 ----- average score -423.32481573451196 ----- 51889 steps
+2024-04-16 21:58:00,842 - RLTrainer - INFO - Starting game 51/300
+2024-04-16 22:00:12,132 - RLTrainer - INFO - Recording evaluation video
+2024-04-16 22:00:35,753 - RLTrainer - INFO - Recorded evaluation video at step 51
+2024-04-16 22:00:55,039 - RLTrainer - INFO - Models saved
+2024-04-16 22:02:37,210 - RLTrainer - INFO - Models loaded
+2024-04-16 22:05:27,977 - RLTrainer - INFO - Recording evaluation video
+2024-04-16 22:05:33,237 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-16 22:05:52,348 - RLTrainer - INFO - RLTrainer initialized
+2024-04-16 22:06:06,444 - RLTrainer - INFO - Recording evaluation video
+2024-04-16 22:08:10,266 - RLTrainer - INFO - Starting game 1/300
+2024-04-16 22:11:41,326 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-16 22:11:41,774 - RLTrainer - INFO - RLTrainer initialized
+2024-04-16 22:11:43,526 - RLTrainer - INFO - Recording evaluation video
+2024-04-16 22:29:28,655 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-16 22:29:28,655 - RLTrainer - INFO - RLTrainer initialized
+2024-04-16 22:29:28,656 - RLTrainer - INFO - Recording evaluation video
+2024-04-16 22:29:57,922 - RLTrainer - INFO - Models loaded
+2024-04-16 22:30:27,787 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-16 22:30:27,787 - RLTrainer - INFO - RLTrainer initialized
+2024-04-16 22:30:28,993 - RLTrainer - INFO - Models loaded
+2024-04-16 22:30:28,993 - RLTrainer - INFO - Recording evaluation video
+2024-04-16 22:50:51,293 - RLTrainer - INFO - Recorded evaluation video at step 1000
+2024-04-16 23:14:01,797 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-16 23:14:01,797 - RLTrainer - INFO - RLTrainer initialized
+2024-04-16 23:14:02,858 - RLTrainer - INFO - Models loaded
+2024-04-16 23:14:02,859 - RLTrainer - INFO - Starting game 1/300
+2024-04-16 23:18:40,696 - RLTrainer - INFO - Game 1: score -497.2131147541197 ----- average score -497.2131147541197 ----- 1076 steps
+2024-04-16 23:21:21,670 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-16 23:21:21,670 - RLTrainer - INFO - RLTrainer initialized
+2024-04-16 23:21:22,687 - RLTrainer - INFO - Models loaded
+2024-04-16 23:21:22,687 - RLTrainer - INFO - Starting game 1/300
+2024-04-16 23:26:56,243 - RLTrainer - INFO - Game 1: score -504.2705882353168 ----- average score -504.2705882353168 ----- 1195 steps
+2024-04-16 23:27:00,393 - RLTrainer - INFO - Models saved
+2024-04-16 23:27:00,393 - RLTrainer - INFO - Starting game 2/300
+2024-04-16 23:30:20,901 - RLTrainer - INFO - Game 2: score -210.39081272084593 ----- average score -357.3307004780813 ----- 1816 steps
+2024-04-16 23:30:24,780 - RLTrainer - INFO - Models saved
+2024-04-16 23:30:24,780 - RLTrainer - INFO - Starting game 3/300
+2024-04-16 23:44:29,357 - RLTrainer - INFO - Game 3: score -1113.5266187052139 ----- average score -609.3960065537922 ----- 4746 steps
+2024-04-16 23:44:29,358 - RLTrainer - INFO - Starting game 4/300
+2024-04-16 23:54:19,137 - RLTrainer - INFO - Game 4: score -669.0501766785392 ----- average score -624.3095490849789 ----- 6788 steps
+2024-04-16 23:54:19,137 - RLTrainer - INFO - Starting game 5/300
+2024-04-17 00:00:17,235 - RLTrainer - INFO - Game 5: score -530.4090909091195 ----- average score -605.5294574498071 ----- 8037 steps
+2024-04-17 00:00:17,236 - RLTrainer - INFO - Starting game 6/300
+2024-04-17 00:02:38,916 - RLTrainer - INFO - Game 6: score -265.28851963745717 ----- average score -548.8226344810821 ----- 8526 steps
+2024-04-17 00:02:38,916 - RLTrainer - INFO - Starting game 7/300
+2024-04-17 00:05:58,170 - RLTrainer - INFO - Game 7: score -325.82024539876454 ----- average score -516.9651503264653 ----- 9214 steps
+2024-04-17 00:05:58,171 - RLTrainer - INFO - Starting game 8/300
+2024-04-17 00:24:23,756 - RLTrainer - INFO - Game 8: score -1460.4698412696987 ----- average score -634.9032366943694 ----- 13013 steps
+2024-04-17 00:24:23,756 - RLTrainer - INFO - Starting game 9/300
+2024-04-17 00:34:25,156 - RLTrainer - INFO - Game 9: score -716.167128027745 ----- average score -643.9325579536334 ----- 15090 steps
+2024-04-17 00:34:25,157 - RLTrainer - INFO - Starting game 10/300
+2024-04-17 00:40:31,348 - RLTrainer - INFO - Game 10: score -539.4079422382978 ----- average score -633.4800963820998 ----- 16361 steps
+2024-04-17 00:40:31,348 - RLTrainer - INFO - Starting game 11/300
+2024-04-17 00:45:01,721 - RLTrainer - INFO - Game 11: score -408.40886075949527 ----- average score -613.019074961863 ----- 17291 steps
+2024-04-17 00:45:01,721 - RLTrainer - INFO - Starting game 12/300
+2024-04-17 00:53:42,469 - RLTrainer - INFO - Game 12: score -530.8716171617456 ----- average score -606.1734534785198 ----- 19078 steps
+2024-04-17 00:53:42,470 - RLTrainer - INFO - Starting game 13/300
+2024-04-17 01:02:53,119 - RLTrainer - INFO - Game 13: score -622.971771771814 ----- average score -607.4656318087732 ----- 20957 steps
+2024-04-17 01:02:53,119 - RLTrainer - INFO - Starting game 14/300
+2024-04-17 01:12:51,036 - RLTrainer - INFO - Game 14: score -775.7149253732177 ----- average score -619.4834384919478 ----- 23029 steps
+2024-04-17 01:12:51,036 - RLTrainer - INFO - Starting game 15/300
+2024-04-17 01:22:35,654 - RLTrainer - INFO - Game 15: score -786.5000000000979 ----- average score -630.6178759258245 ----- 25046 steps
+2024-04-17 01:22:35,654 - RLTrainer - INFO - Starting game 16/300
+2024-04-17 02:03:21,138 - RLTrainer - INFO - Game 16: score -2639.058865246499 ----- average score -756.1454377583667 ----- 33460 steps
+2024-04-17 02:03:21,138 - RLTrainer - INFO - Starting game 17/300
+2024-04-17 02:08:52,775 - RLTrainer - INFO - Game 17: score -275.00112359549394 ----- average score -727.8428310429035 ----- 34600 steps
+2024-04-17 02:08:52,775 - RLTrainer - INFO - Starting game 18/300
+2024-04-17 02:11:31,810 - RLTrainer - INFO - Game 18: score -178.1414239482199 ----- average score -697.3038639820878 ----- 35144 steps
+2024-04-17 02:11:31,810 - RLTrainer - INFO - Starting game 19/300
+2024-04-17 02:20:11,721 - RLTrainer - INFO - Game 19: score -407.7732441471553 ----- average score -682.065410306565 ----- 36934 steps
+2024-04-17 02:20:11,722 - RLTrainer - INFO - Starting game 20/300
+2024-04-17 02:56:48,543 - RLTrainer - INFO - Game 20: score -2190.869230768349 ----- average score -757.5056013296542 ----- 44460 steps
+2024-04-17 02:56:48,544 - RLTrainer - INFO - Starting game 21/300
+2024-04-17 03:03:57,183 - RLTrainer - INFO - Game 21: score -394.6847457627126 ----- average score -740.2284177312283 ----- 45935 steps
+2024-04-17 03:03:57,183 - RLTrainer - INFO - Starting game 22/300
+2024-04-17 03:10:05,004 - RLTrainer - INFO - Game 22: score -271.6666666666599 ----- average score -718.9301563192025 ----- 47198 steps
+2024-04-17 03:10:05,005 - RLTrainer - INFO - Starting game 23/300
+2024-04-17 03:30:02,582 - RLTrainer - INFO - Game 23: score -813.2342192691602 ----- average score -723.0303329692008 ----- 51282 steps
+2024-04-17 03:30:02,582 - RLTrainer - INFO - Starting game 24/300
+2024-04-17 04:02:19,013 - RLTrainer - INFO - Game 24: score -1760.2626865667808 ----- average score -766.2483477024334 ----- 57915 steps
+2024-04-17 04:02:19,014 - RLTrainer - INFO - Starting game 25/300
+2024-04-17 04:10:54,930 - RLTrainer - INFO - Game 25: score -183.60724637679283 ----- average score -742.9427036494078 ----- 59661 steps
+2024-04-17 04:10:54,931 - RLTrainer - INFO - Starting game 26/300
+2024-04-17 04:35:10,495 - RLTrainer - INFO - Game 26: score -1205.1382550336393 ----- average score -760.7194556257243 ----- 64648 steps
+2024-04-17 04:35:10,496 - RLTrainer - INFO - Starting game 27/300
+2024-04-17 06:06:18,056 - RLTrainer - INFO - Game 27: score -6548.217437728321 ----- average score -975.0712327406353 ----- 83251 steps
+2024-04-17 06:06:18,057 - RLTrainer - INFO - Starting game 28/300
+2024-04-17 07:22:45,565 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-17 07:22:45,565 - RLTrainer - INFO - RLTrainer initialized
+2024-04-17 07:22:46,619 - RLTrainer - INFO - Models loaded
+2024-04-17 07:22:46,619 - RLTrainer - INFO - Recording evaluation video
+2024-04-17 07:23:28,274 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-17 07:23:28,275 - RLTrainer - INFO - RLTrainer initialized
+2024-04-17 07:23:29,342 - RLTrainer - INFO - Models loaded
+2024-04-17 07:23:29,342 - RLTrainer - INFO - Recording evaluation video
+2024-04-17 07:25:17,590 - RLTrainer - INFO - Recorded evaluation video at step 11
+2024-04-17 07:27:45,160 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-17 07:27:45,161 - RLTrainer - INFO - RLTrainer initialized
+2024-04-17 07:28:08,676 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-17 07:28:08,676 - RLTrainer - INFO - RLTrainer initialized
+2024-04-17 07:28:08,677 - RLTrainer - INFO - Recording evaluation video
+2024-04-17 07:28:40,479 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-17 07:28:40,479 - RLTrainer - INFO - RLTrainer initialized
+2024-04-17 07:28:40,480 - RLTrainer - INFO - Recording evaluation video
+2024-04-17 07:29:29,954 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-17 07:29:29,955 - RLTrainer - INFO - RLTrainer initialized
+2024-04-17 07:29:29,955 - RLTrainer - INFO - Starting game 1/300
+2024-04-17 07:31:31,956 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-17 07:31:31,957 - RLTrainer - INFO - RLTrainer initialized
+2024-04-17 07:31:31,957 - RLTrainer - INFO - Starting game 1/300
+2024-04-17 07:33:27,114 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-17 07:33:27,114 - RLTrainer - INFO - RLTrainer initialized
+2024-04-17 07:33:27,114 - RLTrainer - INFO - Starting game 1/300
+2024-04-17 07:34:36,732 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-17 07:34:36,732 - RLTrainer - INFO - RLTrainer initialized
+2024-04-17 07:34:36,733 - RLTrainer - INFO - Starting game 1/300
+2024-04-17 07:34:40,258 - RLTrainer - INFO - Game 1: score 5400.0 ----- average score 5400.0 ----- 177 steps
+2024-04-17 07:34:43,493 - RLTrainer - INFO - Models saved
+2024-04-17 07:34:43,493 - RLTrainer - INFO - Starting game 2/300
+2024-04-17 07:35:18,506 - RLTrainer - INFO - Game 2: score 3900.0 ----- average score 4650.0 ----- 333 steps
+2024-04-17 07:35:18,507 - RLTrainer - INFO - Starting game 3/300
+2024-04-17 07:35:58,220 - RLTrainer - INFO - Game 3: score 2900.0 ----- average score 4066.6666666666665 ----- 492 steps
+2024-04-17 07:35:58,221 - RLTrainer - INFO - Starting game 4/300
+2024-04-17 07:37:12,707 - RLTrainer - INFO - Game 4: score 5700.0 ----- average score 4475.0 ----- 733 steps
+2024-04-17 07:37:12,708 - RLTrainer - INFO - Starting game 5/300
+2024-04-17 07:38:31,056 - RLTrainer - INFO - Game 5: score 4300.0 ----- average score 4440.0 ----- 896 steps
+2024-04-17 07:38:31,056 - RLTrainer - INFO - Starting game 6/300
+2024-04-17 07:39:32,356 - RLTrainer - INFO - Game 6: score 8400.0 ----- average score 5100.0 ----- 1130 steps
+2024-04-17 07:39:32,357 - RLTrainer - INFO - Starting game 7/300
+2024-04-17 07:40:11,025 - RLTrainer - INFO - Game 7: score 3800.0 ----- average score 4914.285714285715 ----- 1277 steps
+2024-04-17 07:40:11,025 - RLTrainer - INFO - Starting game 8/300
+2024-04-17 07:40:57,133 - RLTrainer - INFO - Game 8: score 4400.0 ----- average score 4850.0 ----- 1453 steps
+2024-04-17 07:40:57,133 - RLTrainer - INFO - Starting game 9/300
+2024-04-17 07:41:36,081 - RLTrainer - INFO - Game 9: score 2700.0 ----- average score 4611.111111111111 ----- 1603 steps
+2024-04-17 07:41:36,081 - RLTrainer - INFO - Starting game 10/300
+2024-04-17 07:42:03,614 - RLTrainer - INFO - Game 10: score 2000.0 ----- average score 4350.0 ----- 1709 steps
+2024-04-17 07:42:03,614 - RLTrainer - INFO - Starting game 11/300
+2024-04-17 07:42:58,613 - RLTrainer - INFO - Game 11: score 10300.0 ----- average score 4890.909090909091 ----- 1920 steps
+2024-04-17 07:42:58,613 - RLTrainer - INFO - Starting game 12/300
+2024-04-17 07:44:00,609 - RLTrainer - INFO - Game 12: score 12200.0 ----- average score 5500.0 ----- 2155 steps
+2024-04-17 07:44:04,793 - RLTrainer - INFO - Models saved
+2024-04-17 07:44:04,794 - RLTrainer - INFO - Starting game 13/300
+2024-04-17 07:44:47,073 - RLTrainer - INFO - Game 13: score 4000.0 ----- average score 5384.615384615385 ----- 2315 steps
+2024-04-17 07:44:47,074 - RLTrainer - INFO - Starting game 14/300
+2024-04-17 07:45:41,435 - RLTrainer - INFO - Game 14: score 5400.0 ----- average score 5385.714285714285 ----- 2524 steps
+2024-04-17 07:45:41,435 - RLTrainer - INFO - Starting game 15/300
+2024-04-17 07:46:27,275 - RLTrainer - INFO - Game 15: score 6200.0 ----- average score 5440.0 ----- 2699 steps
+2024-04-17 07:46:27,276 - RLTrainer - INFO - Starting game 16/300
+2024-04-17 07:47:06,791 - RLTrainer - INFO - Game 16: score 7100.0 ----- average score 5543.75 ----- 2852 steps
+2024-04-17 07:47:11,194 - RLTrainer - INFO - Models saved
+2024-04-17 07:47:11,195 - RLTrainer - INFO - Starting game 17/300
+2024-04-17 07:48:05,479 - RLTrainer - INFO - Game 17: score 6100.0 ----- average score 5576.470588235294 ----- 3057 steps
+2024-04-17 07:48:09,697 - RLTrainer - INFO - Models saved
+2024-04-17 07:48:09,698 - RLTrainer - INFO - Starting game 18/300
+2024-04-17 07:49:02,592 - RLTrainer - INFO - Game 18: score 6100.0 ----- average score 5605.555555555556 ----- 3258 steps
+2024-04-17 07:49:06,546 - RLTrainer - INFO - Models saved
+2024-04-17 07:49:06,546 - RLTrainer - INFO - Starting game 19/300
+2024-04-17 07:50:12,581 - RLTrainer - INFO - Game 19: score 7800.0 ----- average score 5721.0526315789475 ----- 3509 steps
+2024-04-17 07:50:16,803 - RLTrainer - INFO - Models saved
+2024-04-17 07:50:16,804 - RLTrainer - INFO - Starting game 20/300
+2024-04-17 07:50:57,128 - RLTrainer - INFO - Game 20: score 5600.0 ----- average score 5715.0 ----- 3663 steps
+2024-04-17 07:50:57,129 - RLTrainer - INFO - Starting game 21/300
+2024-04-17 07:51:41,348 - RLTrainer - INFO - Game 21: score 7200.0 ----- average score 5785.714285714285 ----- 3833 steps
+2024-04-17 07:51:45,719 - RLTrainer - INFO - Models saved
+2024-04-17 07:51:45,720 - RLTrainer - INFO - Starting game 22/300
+2024-04-17 07:52:30,772 - RLTrainer - INFO - Game 22: score 3000.0 ----- average score 5659.090909090909 ----- 4005 steps
+2024-04-17 07:52:30,772 - RLTrainer - INFO - Starting game 23/300
+2024-04-17 07:53:12,913 - RLTrainer - INFO - Game 23: score 3500.0 ----- average score 5565.217391304348 ----- 4168 steps
+2024-04-17 07:53:12,914 - RLTrainer - INFO - Starting game 24/300
+2024-04-17 07:53:51,786 - RLTrainer - INFO - Game 24: score 3000.0 ----- average score 5458.333333333333 ----- 4318 steps
+2024-04-17 07:53:51,787 - RLTrainer - INFO - Starting game 25/300
+2024-04-17 07:54:36,901 - RLTrainer - INFO - Game 25: score 2900.0 ----- average score 5356.0 ----- 4491 steps
+2024-04-17 07:54:36,902 - RLTrainer - INFO - Starting game 26/300
+2024-04-17 07:55:32,000 - RLTrainer - INFO - Game 26: score 3200.0 ----- average score 5273.076923076923 ----- 4703 steps
+2024-04-17 07:55:32,000 - RLTrainer - INFO - Starting game 27/300
+2024-04-17 07:56:17,574 - RLTrainer - INFO - Game 27: score 5700.0 ----- average score 5288.888888888889 ----- 4879 steps
+2024-04-17 07:56:17,574 - RLTrainer - INFO - Starting game 28/300
+2024-04-17 07:56:56,939 - RLTrainer - INFO - Game 28: score 3600.0 ----- average score 5228.571428571428 ----- 5030 steps
+2024-04-17 07:56:56,940 - RLTrainer - INFO - Starting game 29/300
+2024-04-17 07:58:00,827 - RLTrainer - INFO - Game 29: score 7800.0 ----- average score 5317.241379310345 ----- 5274 steps
+2024-04-17 07:58:00,828 - RLTrainer - INFO - Starting game 30/300
+2024-04-17 07:58:46,861 - RLTrainer - INFO - Game 30: score 5900.0 ----- average score 5336.666666666667 ----- 5450 steps
+2024-04-17 07:58:46,862 - RLTrainer - INFO - Starting game 31/300
+2024-04-17 07:59:43,434 - RLTrainer - INFO - Game 31: score 6300.0 ----- average score 5367.741935483871 ----- 5665 steps
+2024-04-17 07:59:43,434 - RLTrainer - INFO - Starting game 32/300
+2024-04-17 08:00:28,482 - RLTrainer - INFO - Game 32: score 2600.0 ----- average score 5281.25 ----- 5838 steps
+2024-04-17 08:00:28,482 - RLTrainer - INFO - Starting game 33/300
+2024-04-17 08:01:09,840 - RLTrainer - INFO - Game 33: score 2800.0 ----- average score 5206.060606060606 ----- 5995 steps
+2024-04-17 08:01:09,840 - RLTrainer - INFO - Starting game 34/300
+2024-04-17 08:01:41,888 - RLTrainer - INFO - Game 34: score 1700.0 ----- average score 5102.941176470588 ----- 6118 steps
+2024-04-17 08:01:41,889 - RLTrainer - INFO - Starting game 35/300
+2024-04-17 08:02:31,276 - RLTrainer - INFO - Game 35: score 4100.0 ----- average score 5074.285714285715 ----- 6305 steps
+2024-04-17 08:02:31,277 - RLTrainer - INFO - Starting game 36/300
+2024-04-17 08:03:11,936 - RLTrainer - INFO - Game 36: score 5100.0 ----- average score 5075.0 ----- 6459 steps
+2024-04-17 08:03:11,937 - RLTrainer - INFO - Starting game 37/300
+2024-04-17 08:03:52,344 - RLTrainer - INFO - Game 37: score 3400.0 ----- average score 5029.72972972973 ----- 6614 steps
+2024-04-17 08:03:52,345 - RLTrainer - INFO - Starting game 38/300
+2024-04-17 08:04:34,032 - RLTrainer - INFO - Game 38: score 2600.0 ----- average score 4965.789473684211 ----- 6773 steps
+2024-04-17 08:04:34,032 - RLTrainer - INFO - Starting game 39/300
+2024-04-17 08:05:20,880 - RLTrainer - INFO - Game 39: score 5400.0 ----- average score 4976.923076923077 ----- 6952 steps
+2024-04-17 08:05:20,881 - RLTrainer - INFO - Starting game 40/300
+2024-04-17 08:05:55,013 - RLTrainer - INFO - Game 40: score 4300.0 ----- average score 4960.0 ----- 7082 steps
+2024-04-17 08:05:55,014 - RLTrainer - INFO - Starting game 41/300
+2024-04-17 08:06:34,157 - RLTrainer - INFO - Game 41: score 2700.0 ----- average score 4904.878048780488 ----- 7232 steps
+2024-04-17 08:06:34,158 - RLTrainer - INFO - Starting game 42/300
+2024-04-17 08:07:12,990 - RLTrainer - INFO - Game 42: score 4300.0 ----- average score 4890.476190476191 ----- 7379 steps
+2024-04-17 08:07:12,991 - RLTrainer - INFO - Starting game 43/300
+2024-04-17 08:07:59,696 - RLTrainer - INFO - Game 43: score 5800.0 ----- average score 4911.627906976744 ----- 7557 steps
+2024-04-17 08:07:59,697 - RLTrainer - INFO - Starting game 44/300
+2024-04-17 08:08:36,855 - RLTrainer - INFO - Game 44: score 3300.0 ----- average score 4875.0 ----- 7700 steps
+2024-04-17 08:08:36,856 - RLTrainer - INFO - Starting game 45/300
+2024-04-17 08:09:18,925 - RLTrainer - INFO - Game 45: score 3600.0 ----- average score 4846.666666666667 ----- 7860 steps
+2024-04-17 08:09:18,925 - RLTrainer - INFO - Starting game 46/300
+2024-04-17 08:10:05,698 - RLTrainer - INFO - Game 46: score 4500.0 ----- average score 4839.130434782609 ----- 8037 steps
+2024-04-17 08:10:05,699 - RLTrainer - INFO - Starting game 47/300
+2024-04-17 08:10:46,443 - RLTrainer - INFO - Game 47: score 4200.0 ----- average score 4825.531914893617 ----- 8193 steps
+2024-04-17 08:10:46,443 - RLTrainer - INFO - Starting game 48/300
+2024-04-17 08:11:20,620 - RLTrainer - INFO - Game 48: score 3600.0 ----- average score 4800.0 ----- 8323 steps
+2024-04-17 08:11:20,620 - RLTrainer - INFO - Starting game 49/300
+2024-04-17 08:12:15,051 - RLTrainer - INFO - Game 49: score 6400.0 ----- average score 4832.65306122449 ----- 8532 steps
+2024-04-17 08:12:15,052 - RLTrainer - INFO - Starting game 50/300
+2024-04-17 08:12:55,318 - RLTrainer - INFO - Game 50: score 4800.0 ----- average score 4832.0 ----- 8686 steps
+2024-04-17 08:12:55,318 - RLTrainer - INFO - Starting game 51/300
+2024-04-17 08:13:47,573 - RLTrainer - INFO - Game 51: score 7900.0 ----- average score 4892.156862745098 ----- 8885 steps
+2024-04-17 08:13:47,574 - RLTrainer - INFO - Starting game 52/300
+2024-04-17 08:14:36,098 - RLTrainer - INFO - Game 52: score 7700.0 ----- average score 4946.153846153846 ----- 9070 steps
+2024-04-17 08:14:36,099 - RLTrainer - INFO - Starting game 53/300
+2024-04-17 08:15:27,564 - RLTrainer - INFO - Game 53: score 4200.0 ----- average score 4932.075471698113 ----- 9267 steps
+2024-04-17 08:15:27,564 - RLTrainer - INFO - Starting game 54/300
+2024-04-17 08:16:30,794 - RLTrainer - INFO - Game 54: score 6400.0 ----- average score 4959.259259259259 ----- 9509 steps
+2024-04-17 08:16:30,794 - RLTrainer - INFO - Starting game 55/300
+2024-04-17 08:17:22,314 - RLTrainer - INFO - Game 55: score 3900.0 ----- average score 4940.0 ----- 9707 steps
+2024-04-17 08:17:22,314 - RLTrainer - INFO - Starting game 56/300
+2024-04-17 08:17:50,059 - RLTrainer - INFO - Game 56: score 2200.0 ----- average score 4891.071428571428 ----- 9813 steps
+2024-04-17 08:17:50,059 - RLTrainer - INFO - Starting game 57/300
+2024-04-17 08:18:38,595 - RLTrainer - INFO - Game 57: score 2700.0 ----- average score 4852.631578947368 ----- 9997 steps
+2024-04-17 08:18:38,596 - RLTrainer - INFO - Starting game 58/300
+2024-04-17 08:19:22,819 - RLTrainer - INFO - Game 58: score 8400.0 ----- average score 4913.793103448276 ----- 10166 steps
+2024-04-17 08:19:22,820 - RLTrainer - INFO - Starting game 59/300
+2024-04-17 08:20:13,389 - RLTrainer - INFO - Game 59: score 10200.0 ----- average score 5003.389830508475 ----- 10358 steps
+2024-04-17 08:20:13,390 - RLTrainer - INFO - Starting game 60/300
+2024-04-17 08:21:10,599 - RLTrainer - INFO - Game 60: score 7200.0 ----- average score 5040.0 ----- 10576 steps
+2024-04-17 08:21:10,600 - RLTrainer - INFO - Starting game 61/300
+2024-04-17 08:21:57,841 - RLTrainer - INFO - Game 61: score 4200.0 ----- average score 5026.229508196721 ----- 10755 steps
+2024-04-17 08:21:57,841 - RLTrainer - INFO - Starting game 62/300
+2024-04-17 08:22:40,185 - RLTrainer - INFO - Game 62: score 4200.0 ----- average score 5012.903225806452 ----- 10918 steps
+2024-04-17 08:22:40,186 - RLTrainer - INFO - Starting game 63/300
+2024-04-17 08:23:23,126 - RLTrainer - INFO - Game 63: score 6800.0 ----- average score 5041.269841269841 ----- 11081 steps
+2024-04-17 08:23:23,126 - RLTrainer - INFO - Starting game 64/300
+2024-04-17 08:24:03,364 - RLTrainer - INFO - Game 64: score 3200.0 ----- average score 5012.5 ----- 11236 steps
+2024-04-17 08:24:03,364 - RLTrainer - INFO - Starting game 65/300
+2024-04-17 08:24:40,555 - RLTrainer - INFO - Game 65: score 4800.0 ----- average score 5009.2307692307695 ----- 11378 steps
+2024-04-17 08:24:40,555 - RLTrainer - INFO - Starting game 66/300
+2024-04-17 08:25:18,960 - RLTrainer - INFO - Game 66: score 3500.0 ----- average score 4986.363636363636 ----- 11524 steps
+2024-04-17 08:25:18,961 - RLTrainer - INFO - Starting game 67/300
+2024-04-17 08:26:13,801 - RLTrainer - INFO - Game 67: score 3500.0 ----- average score 4964.179104477612 ----- 11731 steps
+2024-04-17 08:26:13,802 - RLTrainer - INFO - Starting game 68/300
+2024-04-17 08:26:52,457 - RLTrainer - INFO - Game 68: score 3100.0 ----- average score 4936.764705882353 ----- 11880 steps
+2024-04-17 08:26:52,458 - RLTrainer - INFO - Starting game 69/300
+2024-04-17 08:27:44,362 - RLTrainer - INFO - Game 69: score 3200.0 ----- average score 4911.594202898551 ----- 12077 steps
+2024-04-17 08:27:44,362 - RLTrainer - INFO - Starting game 70/300
+2024-04-17 08:28:22,559 - RLTrainer - INFO - Game 70: score 4100.0 ----- average score 4900.0 ----- 12224 steps
+2024-04-17 08:28:22,559 - RLTrainer - INFO - Starting game 71/300
+2024-04-17 08:29:03,559 - RLTrainer - INFO - Game 71: score 6100.0 ----- average score 4916.901408450704 ----- 12380 steps
+2024-04-17 08:29:03,559 - RLTrainer - INFO - Starting game 72/300
+2024-04-17 08:29:41,953 - RLTrainer - INFO - Game 72: score 3600.0 ----- average score 4898.611111111111 ----- 12527 steps
+2024-04-17 08:29:41,953 - RLTrainer - INFO - Starting game 73/300
+2024-04-17 08:30:32,693 - RLTrainer - INFO - Game 73: score 3500.0 ----- average score 4879.45205479452 ----- 12722 steps
+2024-04-17 08:30:32,694 - RLTrainer - INFO - Starting game 74/300
+2024-04-17 08:31:32,973 - RLTrainer - INFO - Game 74: score 6900.0 ----- average score 4906.756756756757 ----- 12952 steps
+2024-04-17 08:31:32,974 - RLTrainer - INFO - Starting game 75/300
+2024-04-17 08:32:24,679 - RLTrainer - INFO - Game 75: score 4000.0 ----- average score 4894.666666666667 ----- 13149 steps
+2024-04-17 08:32:24,680 - RLTrainer - INFO - Starting game 76/300
+2024-04-17 08:33:24,373 - RLTrainer - INFO - Game 76: score 8500.0 ----- average score 4942.105263157895 ----- 13377 steps
+2024-04-17 08:33:24,374 - RLTrainer - INFO - Starting game 77/300
+2024-04-17 08:34:11,207 - RLTrainer - INFO - Game 77: score 8000.0 ----- average score 4981.818181818182 ----- 13556 steps
+2024-04-17 08:34:11,208 - RLTrainer - INFO - Starting game 78/300
+2024-04-17 08:34:50,453 - RLTrainer - INFO - Game 78: score 2200.0 ----- average score 4946.153846153846 ----- 13704 steps
+2024-04-17 08:34:50,454 - RLTrainer - INFO - Starting game 79/300
+2024-04-17 08:35:40,046 - RLTrainer - INFO - Game 79: score 7300.0 ----- average score 4975.949367088608 ----- 13892 steps
+2024-04-17 08:35:40,047 - RLTrainer - INFO - Starting game 80/300
+2024-04-17 08:36:21,204 - RLTrainer - INFO - Game 80: score 2700.0 ----- average score 4947.5 ----- 14048 steps
+2024-04-17 08:36:21,205 - RLTrainer - INFO - Starting game 81/300
+2024-04-17 08:37:05,670 - RLTrainer - INFO - Game 81: score 6600.0 ----- average score 4967.901234567901 ----- 14217 steps
+2024-04-17 08:37:05,670 - RLTrainer - INFO - Starting game 82/300
+2024-04-17 08:37:48,736 - RLTrainer - INFO - Game 82: score 2800.0 ----- average score 4941.463414634146 ----- 14382 steps
+2024-04-17 08:37:48,737 - RLTrainer - INFO - Starting game 83/300
+2024-04-17 08:38:30,929 - RLTrainer - INFO - Game 83: score 6000.0 ----- average score 4954.21686746988 ----- 14542 steps
+2024-04-17 08:38:30,930 - RLTrainer - INFO - Starting game 84/300
+2024-04-17 08:39:28,275 - RLTrainer - INFO - Game 84: score 3900.0 ----- average score 4941.666666666667 ----- 14762 steps
+2024-04-17 08:39:28,276 - RLTrainer - INFO - Starting game 85/300
+2024-04-17 08:40:19,860 - RLTrainer - INFO - Game 85: score 4900.0 ----- average score 4941.176470588235 ----- 14960 steps
+2024-04-17 08:40:19,861 - RLTrainer - INFO - Starting game 86/300
+2024-04-17 08:41:04,369 - RLTrainer - INFO - Game 86: score 7600.0 ----- average score 4972.093023255814 ----- 15129 steps
+2024-04-17 08:41:04,370 - RLTrainer - INFO - Starting game 87/300
+2024-04-17 08:41:49,366 - RLTrainer - INFO - Game 87: score 5600.0 ----- average score 4979.310344827586 ----- 15302 steps
+2024-04-17 08:41:49,367 - RLTrainer - INFO - Starting game 88/300
+2024-04-17 08:42:30,162 - RLTrainer - INFO - Game 88: score 3900.0 ----- average score 4967.045454545455 ----- 15458 steps
+2024-04-17 08:42:30,163 - RLTrainer - INFO - Starting game 89/300
+2024-04-17 08:43:33,154 - RLTrainer - INFO - Game 89: score 9400.0 ----- average score 5016.853932584269 ----- 15699 steps
+2024-04-17 08:43:33,155 - RLTrainer - INFO - Starting game 90/300
+2024-04-17 08:44:15,670 - RLTrainer - INFO - Game 90: score 5100.0 ----- average score 5017.777777777777 ----- 15862 steps
+2024-04-17 08:44:15,670 - RLTrainer - INFO - Starting game 91/300
+2024-04-17 08:44:59,928 - RLTrainer - INFO - Game 91: score 4200.0 ----- average score 5008.791208791209 ----- 16029 steps
+2024-04-17 08:44:59,929 - RLTrainer - INFO - Starting game 92/300
+2024-04-17 08:45:39,274 - RLTrainer - INFO - Game 92: score 2800.0 ----- average score 4984.782608695652 ----- 16179 steps
+2024-04-17 08:45:39,274 - RLTrainer - INFO - Starting game 93/300
+2024-04-17 08:46:42,957 - RLTrainer - INFO - Game 93: score 7900.0 ----- average score 5016.129032258064 ----- 16424 steps
+2024-04-17 08:46:42,958 - RLTrainer - INFO - Starting game 94/300
+2024-04-17 08:47:48,563 - RLTrainer - INFO - Game 94: score 7900.0 ----- average score 5046.808510638298 ----- 16675 steps
+2024-04-17 08:47:48,563 - RLTrainer - INFO - Starting game 95/300
+2024-04-17 08:48:42,984 - RLTrainer - INFO - Game 95: score 5900.0 ----- average score 5055.789473684211 ----- 16884 steps
+2024-04-17 08:48:42,985 - RLTrainer - INFO - Starting game 96/300
+2024-04-17 08:49:23,721 - RLTrainer - INFO - Game 96: score 4100.0 ----- average score 5045.833333333333 ----- 17039 steps
+2024-04-17 08:49:23,721 - RLTrainer - INFO - Starting game 97/300
+2024-04-17 08:50:06,174 - RLTrainer - INFO - Game 97: score 2800.0 ----- average score 5022.680412371134 ----- 17202 steps
+2024-04-17 08:50:06,175 - RLTrainer - INFO - Starting game 98/300
+2024-04-17 08:50:50,755 - RLTrainer - INFO - Game 98: score 3900.0 ----- average score 5011.224489795918 ----- 17371 steps
+2024-04-17 08:50:50,755 - RLTrainer - INFO - Starting game 99/300
+2024-04-17 08:51:33,100 - RLTrainer - INFO - Game 99: score 4200.0 ----- average score 5003.030303030303 ----- 17534 steps
+2024-04-17 08:51:33,101 - RLTrainer - INFO - Starting game 100/300
+2024-04-17 08:52:34,353 - RLTrainer - INFO - Game 100: score 7700.0 ----- average score 5030.0 ----- 17767 steps
+2024-04-17 08:52:34,353 - RLTrainer - INFO - Starting game 101/300
+2024-04-17 08:53:19,233 - RLTrainer - INFO - Game 101: score 5100.0 ----- average score 5027.0 ----- 17937 steps
+2024-04-17 08:53:19,234 - RLTrainer - INFO - Starting game 102/300
+2024-04-17 08:54:03,471 - RLTrainer - INFO - Game 102: score 6100.0 ----- average score 5049.0 ----- 18107 steps
+2024-04-17 08:54:03,472 - RLTrainer - INFO - Starting game 103/300
+2024-04-17 08:54:45,456 - RLTrainer - INFO - Game 103: score 4500.0 ----- average score 5065.0 ----- 18270 steps
+2024-04-17 08:54:45,457 - RLTrainer - INFO - Starting game 104/300
+2024-04-17 08:55:39,734 - RLTrainer - INFO - Game 104: score 7700.0 ----- average score 5085.0 ----- 18475 steps
+2024-04-17 08:55:39,734 - RLTrainer - INFO - Starting game 105/300
+2024-04-17 08:56:23,620 - RLTrainer - INFO - Game 105: score 5100.0 ----- average score 5093.0 ----- 18644 steps
+2024-04-17 08:56:23,621 - RLTrainer - INFO - Starting game 106/300
+2024-04-17 08:57:07,945 - RLTrainer - INFO - Game 106: score 5300.0 ----- average score 5062.0 ----- 18814 steps
+2024-04-17 08:57:07,946 - RLTrainer - INFO - Starting game 107/300
+2024-04-17 08:57:47,218 - RLTrainer - INFO - Game 107: score 2800.0 ----- average score 5052.0 ----- 18964 steps
+2024-04-17 08:57:47,219 - RLTrainer - INFO - Starting game 108/300
+2024-04-17 08:58:28,083 - RLTrainer - INFO - Game 108: score 4200.0 ----- average score 5050.0 ----- 19120 steps
+2024-04-17 08:58:28,084 - RLTrainer - INFO - Starting game 109/300
+2024-04-17 08:59:03,050 - RLTrainer - INFO - Game 109: score 4400.0 ----- average score 5067.0 ----- 19253 steps
+2024-04-17 08:59:03,050 - RLTrainer - INFO - Starting game 110/300
+2024-04-17 08:59:46,536 - RLTrainer - INFO - Game 110: score 5000.0 ----- average score 5097.0 ----- 19420 steps
+2024-04-17 08:59:46,537 - RLTrainer - INFO - Starting game 111/300
+2024-04-17 09:00:41,168 - RLTrainer - INFO - Game 111: score 9700.0 ----- average score 5091.0 ----- 19628 steps
+2024-04-17 09:00:41,168 - RLTrainer - INFO - Starting game 112/300
+2024-04-17 09:01:19,279 - RLTrainer - INFO - Game 112: score 4200.0 ----- average score 5011.0 ----- 19773 steps
+2024-04-17 09:01:19,279 - RLTrainer - INFO - Starting game 113/300
+2024-04-17 09:02:25,912 - RLTrainer - INFO - Game 113: score 15800.0 ----- average score 5129.0 ----- 20028 steps
+2024-04-17 09:02:25,912 - RLTrainer - INFO - Starting game 114/300
+2024-04-17 09:03:07,768 - RLTrainer - INFO - Game 114: score 2400.0 ----- average score 5099.0 ----- 20187 steps
+2024-04-17 09:03:07,769 - RLTrainer - INFO - Starting game 115/300
+2024-04-17 09:04:06,675 - RLTrainer - INFO - Game 115: score 4200.0 ----- average score 5079.0 ----- 20414 steps
+2024-04-17 09:04:06,676 - RLTrainer - INFO - Starting game 116/300
+2024-04-17 09:04:50,962 - RLTrainer - INFO - Game 116: score 5500.0 ----- average score 5063.0 ----- 20584 steps
+2024-04-17 09:04:50,963 - RLTrainer - INFO - Starting game 117/300
+2024-04-17 09:05:30,273 - RLTrainer - INFO - Game 117: score 2200.0 ----- average score 5024.0 ----- 20734 steps
+2024-04-17 09:05:30,274 - RLTrainer - INFO - Starting game 118/300
+2024-04-17 09:06:12,354 - RLTrainer - INFO - Game 118: score 3200.0 ----- average score 4995.0 ----- 20893 steps
+2024-04-17 09:06:12,354 - RLTrainer - INFO - Starting game 119/300
+2024-04-17 09:06:40,396 - RLTrainer - INFO - Game 119: score 2000.0 ----- average score 4937.0 ----- 20999 steps
+2024-04-17 09:06:40,396 - RLTrainer - INFO - Starting game 120/300
+2024-04-17 09:07:25,738 - RLTrainer - INFO - Game 120: score 3100.0 ----- average score 4912.0 ----- 21172 steps
+2024-04-17 09:07:25,738 - RLTrainer - INFO - Starting game 121/300
+2024-04-17 09:08:10,520 - RLTrainer - INFO - Game 121: score 6800.0 ----- average score 4908.0 ----- 21342 steps
+2024-04-17 09:08:10,521 - RLTrainer - INFO - Starting game 122/300
+2024-04-17 09:08:55,356 - RLTrainer - INFO - Game 122: score 6500.0 ----- average score 4943.0 ----- 21512 steps
+2024-04-17 09:08:55,356 - RLTrainer - INFO - Starting game 123/300
+2024-04-17 09:09:23,137 - RLTrainer - INFO - Game 123: score 2000.0 ----- average score 4928.0 ----- 21618 steps
+2024-04-17 09:09:23,137 - RLTrainer - INFO - Starting game 124/300
+2024-04-17 09:10:10,843 - RLTrainer - INFO - Recording evaluation video
+2024-04-17 09:10:14,565 - RLTrainer - INFO - Recorded evaluation video at step 124
+2024-04-17 09:22:08,143 - RLTrainer - INFO - Game 124: score 3500.0 ----- average score 4933.0 ----- 21742 steps
+2024-04-17 09:22:08,143 - RLTrainer - INFO - Starting game 125/300
+2024-04-17 09:22:56,337 - RLTrainer - INFO - Game 125: score 6200.0 ----- average score 4966.0 ----- 21951 steps
+2024-04-17 09:22:56,337 - RLTrainer - INFO - Starting game 126/300
+2024-04-17 09:23:31,526 - RLTrainer - INFO - Game 126: score 3800.0 ----- average score 4972.0 ----- 22106 steps
+2024-04-17 09:23:31,527 - RLTrainer - INFO - Starting game 127/300
+2024-04-17 09:24:09,447 - RLTrainer - INFO - Game 127: score 3600.0 ----- average score 4951.0 ----- 22272 steps
+2024-04-17 09:24:09,447 - RLTrainer - INFO - Starting game 128/300
+2024-04-17 09:24:52,829 - RLTrainer - INFO - Game 128: score 7900.0 ----- average score 4994.0 ----- 22452 steps
+2024-04-17 09:24:52,830 - RLTrainer - INFO - Starting game 129/300
+2024-04-17 09:25:30,006 - RLTrainer - INFO - Game 129: score 2500.0 ----- average score 4941.0 ----- 22603 steps
+2024-04-17 09:25:30,007 - RLTrainer - INFO - Starting game 130/300
+2024-04-17 09:26:07,735 - RLTrainer - INFO - Game 130: score 2500.0 ----- average score 4907.0 ----- 22757 steps
+2024-04-17 09:26:07,736 - RLTrainer - INFO - Starting game 131/300
+2024-04-17 09:26:33,653 - RLTrainer - INFO - Game 131: score 2200.0 ----- average score 4866.0 ----- 22863 steps
+2024-04-17 09:26:33,654 - RLTrainer - INFO - Starting game 132/300
+2024-04-17 09:27:05,604 - RLTrainer - INFO - Game 132: score 4000.0 ----- average score 4880.0 ----- 22993 steps
+2024-04-17 09:27:05,604 - RLTrainer - INFO - Starting game 133/300
+2024-04-17 09:27:46,795 - RLTrainer - INFO - Game 133: score 3300.0 ----- average score 4885.0 ----- 23162 steps
+2024-04-17 09:27:46,795 - RLTrainer - INFO - Starting game 134/300
+2024-04-17 09:28:26,663 - RLTrainer - INFO - Game 134: score 5700.0 ----- average score 4925.0 ----- 23323 steps
+2024-04-17 09:28:26,663 - RLTrainer - INFO - Starting game 135/300
+2024-04-17 09:29:02,604 - RLTrainer - INFO - Game 135: score 3300.0 ----- average score 4917.0 ----- 23470 steps
+2024-04-17 09:29:02,605 - RLTrainer - INFO - Starting game 136/300
+2024-04-17 09:29:57,787 - RLTrainer - INFO - Game 136: score 6700.0 ----- average score 4933.0 ----- 23694 steps
+2024-04-17 09:29:57,788 - RLTrainer - INFO - Starting game 137/300
+2024-04-17 09:30:23,859 - RLTrainer - INFO - Game 137: score 2000.0 ----- average score 4919.0 ----- 23800 steps
+2024-04-17 09:30:23,860 - RLTrainer - INFO - Starting game 138/300
+2024-04-17 09:31:11,161 - RLTrainer - INFO - Game 138: score 3500.0 ----- average score 4928.0 ----- 23992 steps
+2024-04-17 09:31:11,161 - RLTrainer - INFO - Starting game 139/300
+2024-04-17 09:31:46,632 - RLTrainer - INFO - Game 139: score 2900.0 ----- average score 4903.0 ----- 24135 steps
+2024-04-17 09:31:46,632 - RLTrainer - INFO - Starting game 140/300
+2024-04-17 09:32:30,491 - RLTrainer - INFO - Game 140: score 4400.0 ----- average score 4904.0 ----- 24314 steps
+2024-04-17 09:32:30,492 - RLTrainer - INFO - Starting game 141/300
+2024-04-17 09:33:09,909 - RLTrainer - INFO - Game 141: score 5700.0 ----- average score 4934.0 ----- 24474 steps
+2024-04-17 09:33:09,910 - RLTrainer - INFO - Starting game 142/300
+2024-04-17 09:33:54,879 - RLTrainer - INFO - Game 142: score 7200.0 ----- average score 4963.0 ----- 24656 steps
+2024-04-17 09:33:54,880 - RLTrainer - INFO - Starting game 143/300
+2024-04-17 09:34:52,166 - RLTrainer - INFO - Game 143: score 8700.0 ----- average score 4992.0 ----- 24887 steps
+2024-04-17 09:34:52,167 - RLTrainer - INFO - Starting game 144/300
+2024-04-17 09:35:34,504 - RLTrainer - INFO - Game 144: score 5300.0 ----- average score 5012.0 ----- 25060 steps
+2024-04-17 09:35:34,505 - RLTrainer - INFO - Starting game 145/300
+2024-04-17 09:36:16,467 - RLTrainer - INFO - Game 145: score 2800.0 ----- average score 5004.0 ----- 25229 steps
+2024-04-17 09:36:16,468 - RLTrainer - INFO - Starting game 146/300
+2024-04-17 09:37:03,836 - RLTrainer - INFO - Game 146: score 7200.0 ----- average score 5031.0 ----- 25422 steps
+2024-04-17 09:37:03,837 - RLTrainer - INFO - Starting game 147/300
+2024-04-17 09:37:48,259 - RLTrainer - INFO - Game 147: score 3000.0 ----- average score 5019.0 ----- 25602 steps
+2024-04-17 09:37:48,260 - RLTrainer - INFO - Starting game 148/300
+2024-04-17 09:38:25,170 - RLTrainer - INFO - Game 148: score 2600.0 ----- average score 5009.0 ----- 25752 steps
+2024-04-17 09:38:25,171 - RLTrainer - INFO - Starting game 149/300
+2024-04-17 09:39:06,551 - RLTrainer - INFO - Game 149: score 3900.0 ----- average score 4984.0 ----- 25919 steps
+2024-04-17 09:39:06,551 - RLTrainer - INFO - Starting game 150/300
+2024-04-17 09:39:48,521 - RLTrainer - INFO - Game 150: score 4300.0 ----- average score 4979.0 ----- 26090 steps
+2024-04-17 09:39:48,522 - RLTrainer - INFO - Starting game 151/300
+2024-04-17 09:40:25,610 - RLTrainer - INFO - Game 151: score 4900.0 ----- average score 4949.0 ----- 26240 steps
+2024-04-17 09:40:25,611 - RLTrainer - INFO - Starting game 152/300
+2024-04-17 09:41:06,452 - RLTrainer - INFO - Game 152: score 4300.0 ----- average score 4915.0 ----- 26406 steps
+2024-04-17 09:41:06,452 - RLTrainer - INFO - Starting game 153/300
+2024-04-17 09:41:44,466 - RLTrainer - INFO - Game 153: score 4100.0 ----- average score 4914.0 ----- 26560 steps
+2024-04-17 09:41:44,466 - RLTrainer - INFO - Starting game 154/300
+2024-04-17 09:42:22,931 - RLTrainer - INFO - Game 154: score 4500.0 ----- average score 4895.0 ----- 26715 steps
+2024-04-17 09:42:22,931 - RLTrainer - INFO - Starting game 155/300
+2024-04-17 09:43:11,221 - RLTrainer - INFO - Game 155: score 4300.0 ----- average score 4899.0 ----- 26912 steps
+2024-04-17 09:43:11,222 - RLTrainer - INFO - Starting game 156/300
+2024-04-17 09:43:55,566 - RLTrainer - INFO - Game 156: score 5100.0 ----- average score 4928.0 ----- 27092 steps
+2024-04-17 09:43:55,567 - RLTrainer - INFO - Starting game 157/300
+2024-04-17 09:44:37,991 - RLTrainer - INFO - Game 157: score 7700.0 ----- average score 4978.0 ----- 27263 steps
+2024-04-17 09:44:37,992 - RLTrainer - INFO - Starting game 158/300
+2024-04-17 09:45:24,901 - RLTrainer - INFO - Game 158: score 5500.0 ----- average score 4949.0 ----- 27454 steps
+2024-04-17 09:45:24,902 - RLTrainer - INFO - Starting game 159/300
+2024-04-17 09:45:50,948 - RLTrainer - INFO - Game 159: score 2100.0 ----- average score 4868.0 ----- 27560 steps
+2024-04-17 09:45:50,949 - RLTrainer - INFO - Starting game 160/300
+2024-04-17 09:46:43,583 - RLTrainer - INFO - Game 160: score 4500.0 ----- average score 4841.0 ----- 27774 steps
+2024-04-17 09:46:43,584 - RLTrainer - INFO - Starting game 161/300
+2024-04-17 09:47:09,713 - RLTrainer - INFO - Game 161: score 2200.0 ----- average score 4821.0 ----- 27880 steps
+2024-04-17 09:47:09,713 - RLTrainer - INFO - Starting game 162/300
+2024-04-17 09:51:00,002 - RLTrainer - INFO - Directories for models, plots, and videos created
+2024-04-17 09:51:00,002 - RLTrainer - INFO - RLTrainer initialized
+2024-04-17 09:51:00,002 - RLTrainer - INFO - Starting game 1/300
+2024-04-17 09:51:01,184 - RLTrainer - INFO - Game 1: score 10.0 ----- average score 10.0 ----- 83 steps
+2024-04-17 09:51:05,676 - RLTrainer - INFO - Models saved
+2024-04-17 09:51:05,676 - RLTrainer - INFO - Starting game 2/300
+2024-04-17 09:51:06,444 - RLTrainer - INFO - Game 2: score 5.0 ----- average score 7.5 ----- 168 steps
+2024-04-17 09:51:06,445 - RLTrainer - INFO - Starting game 3/300
+2024-04-17 09:51:20,302 - RLTrainer - INFO - Game 3: score 9.0 ----- average score 8.0 ----- 256 steps
+2024-04-17 09:51:20,302 - RLTrainer - INFO - Starting game 4/300
+2024-04-17 09:51:44,641 - RLTrainer - INFO - Game 4: score 18.0 ----- average score 10.5 ----- 358 steps
+2024-04-17 09:51:48,984 - RLTrainer - INFO - Models saved
+2024-04-17 09:51:48,984 - RLTrainer - INFO - Starting game 5/300
+2024-04-17 09:52:13,219 - RLTrainer - INFO - Game 5: score 5.0 ----- average score 9.4 ----- 451 steps
+2024-04-17 09:52:13,219 - RLTrainer - INFO - Starting game 6/300
+2024-04-17 09:52:47,591 - RLTrainer - INFO - Game 6: score 23.0 ----- average score 11.666666666666666 ----- 571 steps
+2024-04-17 09:52:52,229 - RLTrainer - INFO - Models saved
+2024-04-17 09:52:52,229 - RLTrainer - INFO - Starting game 7/300
+2024-04-17 09:53:36,834 - RLTrainer - INFO - Game 7: score 33.0 ----- average score 14.714285714285714 ----- 726 steps
+2024-04-17 09:53:41,150 - RLTrainer - INFO - Models saved
+2024-04-17 09:53:41,150 - RLTrainer - INFO - Starting game 8/300
+2024-04-17 09:54:13,650 - RLTrainer - INFO - Game 8: score 19.0 ----- average score 15.25 ----- 836 steps
+2024-04-17 09:54:18,216 - RLTrainer - INFO - Models saved
+2024-04-17 09:54:18,217 - RLTrainer - INFO - Starting game 9/300
+2024-04-17 09:54:46,174 - RLTrainer - INFO - Game 9: score 16.0 ----- average score 15.333333333333334 ----- 930 steps
+2024-04-17 09:54:50,684 - RLTrainer - INFO - Models saved
+2024-04-17 09:54:50,684 - RLTrainer - INFO - Starting game 10/300
+2024-04-17 09:55:15,535 - RLTrainer - INFO - Game 10: score 12.0 ----- average score 15.0 ----- 1015 steps
+2024-04-17 09:55:15,535 - RLTrainer - INFO - Starting game 11/300
+2024-04-17 09:55:53,404 - RLTrainer - INFO - Game 11: score 35.0 ----- average score 16.818181818181817 ----- 1155 steps
+2024-04-17 09:55:57,806 - RLTrainer - INFO - Models saved
+2024-04-17 09:55:57,806 - RLTrainer - INFO - Starting game 12/300
+2024-04-17 09:56:20,355 - RLTrainer - INFO - Game 12: score 14.0 ----- average score 16.583333333333332 ----- 1244 steps
+2024-04-17 09:56:20,355 - RLTrainer - INFO - Starting game 13/300
+2024-04-17 09:56:43,265 - RLTrainer - INFO - Game 13: score 5.0 ----- average score 15.692307692307692 ----- 1324 steps
+2024-04-17 09:56:43,266 - RLTrainer - INFO - Starting game 14/300
+2024-04-17 09:57:05,666 - RLTrainer - INFO - Game 14: score 6.0 ----- average score 15.0 ----- 1403 steps
+2024-04-17 09:57:05,666 - RLTrainer - INFO - Starting game 15/300
+2024-04-17 09:57:39,800 - RLTrainer - INFO - Game 15: score 25.0 ----- average score 15.666666666666666 ----- 1523 steps
+2024-04-17 09:57:39,801 - RLTrainer - INFO - Starting game 16/300
+2024-04-17 09:58:09,189 - RLTrainer - INFO - Game 16: score 30.0 ----- average score 16.5625 ----- 1632 steps
+2024-04-17 09:58:09,189 - RLTrainer - INFO - Starting game 17/300
+2024-04-17 09:58:37,230 - RLTrainer - INFO - Game 17: score 16.0 ----- average score 16.529411764705884 ----- 1736 steps
+2024-04-17 09:58:37,231 - RLTrainer - INFO - Starting game 18/300
+2024-04-17 09:59:05,796 - RLTrainer - INFO - Game 18: score 18.0 ----- average score 16.61111111111111 ----- 1836 steps
+2024-04-17 09:59:05,796 - RLTrainer - INFO - Starting game 19/300
+2024-04-17 09:59:33,472 - RLTrainer - INFO - Game 19: score 19.0 ----- average score 16.736842105263158 ----- 1936 steps
+2024-04-17 09:59:33,473 - RLTrainer - INFO - Starting game 20/300
+2024-04-17 10:00:05,747 - RLTrainer - INFO - Game 20: score 20.0 ----- average score 16.9 ----- 2039 steps
+2024-04-17 10:00:10,358 - RLTrainer - INFO - Models saved
+2024-04-17 10:00:10,358 - RLTrainer - INFO - Starting game 21/300
+2024-04-17 10:00:44,024 - RLTrainer - INFO - Game 21: score 30.0 ----- average score 17.523809523809526 ----- 2172 steps
+2024-04-17 10:00:48,405 - RLTrainer - INFO - Models saved
+2024-04-17 10:00:48,405 - RLTrainer - INFO - Starting game 22/300
+2024-04-17 10:01:15,361 - RLTrainer - INFO - Game 22: score 20.0 ----- average score 17.636363636363637 ----- 2274 steps
+2024-04-17 10:01:19,839 - RLTrainer - INFO - Models saved
+2024-04-17 10:01:19,839 - RLTrainer - INFO - Starting game 23/300
+2024-04-17 10:01:52,141 - RLTrainer - INFO - Game 23: score 25.0 ----- average score 17.956521739130434 ----- 2391 steps
+2024-04-17 10:01:56,679 - RLTrainer - INFO - Models saved
+2024-04-17 10:01:56,679 - RLTrainer - INFO - Starting game 24/300
+2024-04-17 10:02:27,203 - RLTrainer - INFO - Game 24: score 23.0 ----- average score 18.166666666666668 ----- 2499 steps
+2024-04-17 10:02:31,913 - RLTrainer - INFO - Models saved
+2024-04-17 10:02:31,913 - RLTrainer - INFO - Starting game 25/300
+2024-04-17 10:03:05,214 - RLTrainer - INFO - Game 25: score 29.0 ----- average score 18.6 ----- 2625 steps
+2024-04-17 10:03:09,717 - RLTrainer - INFO - Models saved
+2024-04-17 10:03:09,717 - RLTrainer - INFO - Starting game 26/300
+2024-04-17 10:03:09,753 - RLTrainer - INFO - Rendering video at game 26
+2024-04-17 10:03:09,753 - RLTrainer - INFO - Recording evaluation video
+2024-04-17 10:03:11,680 - RLTrainer - INFO - Recorded evaluation video at step 25
+2024-04-17 10:03:12,154 - RLTrainer - INFO - Game 26: score 0.0 ----- average score 17.884615384615383 ----- 2627 steps
+2024-04-17 10:03:12,155 - RLTrainer - INFO - Starting game 27/300
+2024-04-17 10:03:45,661 - RLTrainer - INFO - Game 27: score 31.0 ----- average score 18.37037037037037 ----- 2748 steps
+2024-04-17 10:03:45,661 - RLTrainer - INFO - Starting game 28/300
+2024-04-17 10:04:25,116 - RLTrainer - INFO - Game 28: score 30.0 ----- average score 18.785714285714285 ----- 2889 steps
+2024-04-17 10:04:29,589 - RLTrainer - INFO - Models saved
+2024-04-17 10:04:29,589 - RLTrainer - INFO - Starting game 29/300
+2024-04-17 10:04:52,871 - RLTrainer - INFO - Game 29: score 10.0 ----- average score 18.482758620689655 ----- 2980 steps
+2024-04-17 10:04:52,871 - RLTrainer - INFO - Starting game 30/300
+2024-04-17 10:05:17,186 - RLTrainer - INFO - Game 30: score 14.0 ----- average score 18.333333333333332 ----- 3070 steps
+2024-04-17 10:05:17,187 - RLTrainer - INFO - Starting game 31/300
+2024-04-17 10:05:41,898 - RLTrainer - INFO - Game 31: score 19.0 ----- average score 18.35483870967742 ----- 3173 steps
+2024-04-17 10:05:41,898 - RLTrainer - INFO - Starting game 32/300
+2024-04-17 10:06:15,569 - RLTrainer - INFO - Game 32: score 35.0 ----- average score 18.875 ----- 3303 steps
+2024-04-17 10:06:20,407 - RLTrainer - INFO - Models saved
+2024-04-17 10:06:20,407 - RLTrainer - INFO - Starting game 33/300
+2024-04-17 10:06:47,758 - RLTrainer - INFO - Game 33: score 18.0 ----- average score 18.848484848484848 ----- 3400 steps
+2024-04-17 10:06:47,758 - RLTrainer - INFO - Starting game 34/300
+2024-04-17 10:07:07,425 - RLTrainer - INFO - Game 34: score 11.0 ----- average score 18.61764705882353 ----- 3476 steps
+2024-04-17 10:07:07,425 - RLTrainer - INFO - Starting game 35/300
+2024-04-17 10:07:31,127 - RLTrainer - INFO - Game 35: score 13.0 ----- average score 18.457142857142856 ----- 3562 steps
+2024-04-17 10:07:31,128 - RLTrainer - INFO - Starting game 36/300
+2024-04-17 10:07:55,550 - RLTrainer - INFO - Game 36: score 14.0 ----- average score 18.333333333333332 ----- 3656 steps
+2024-04-17 10:07:55,551 - RLTrainer - INFO - Starting game 37/300
+2024-04-17 10:08:26,179 - RLTrainer - INFO - Game 37: score 26.0 ----- average score 18.54054054054054 ----- 3774 steps
+2024-04-17 10:08:26,179 - RLTrainer - INFO - Starting game 38/300
+2024-04-17 10:08:59,510 - RLTrainer - INFO - Game 38: score 17.0 ----- average score 18.5 ----- 3898 steps
+2024-04-17 10:08:59,510 - RLTrainer - INFO - Starting game 39/300
+2024-04-17 10:09:27,190 - RLTrainer - INFO - Game 39: score 20.0 ----- average score 18.53846153846154 ----- 3995 steps
+2024-04-17 10:09:27,191 - RLTrainer - INFO - Starting game 40/300
+2024-04-17 10:10:05,100 - RLTrainer - INFO - Game 40: score 38.0 ----- average score 19.025 ----- 4123 steps
+2024-04-17 10:10:09,574 - RLTrainer - INFO - Models saved
+2024-04-17 10:10:09,574 - RLTrainer - INFO - Starting game 41/300

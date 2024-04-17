@@ -115,7 +115,10 @@ class StackFrames(gym.ObservationWrapper):
 
 
 def make_env(env_name, shape=(84, 84, 1), repeat=4, clip_rewards=False, no_ops=45, fire_first=False, **kwargs) -> gym.Env:
-    env = gym.make(env_name, render_mode='rgb_array', **kwargs)
+    try:
+        env = gym.make(env_name, render_mode='rgb_array', **kwargs)
+    except TypeError:
+        env = gym.make(env_name, render_mode='rgb_array')
     env = RepeatActionAndMaxFrame(env, repeat, no_ops=no_ops)
     env = PreprocessFrame(env, shape)
     env = StackFrames(env, repeat)

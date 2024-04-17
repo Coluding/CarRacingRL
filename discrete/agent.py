@@ -1,6 +1,7 @@
 import torch
 import numpy as np
 from typing import Sequence, Union, Tuple
+from pythonlangutil.overload import Overload, signature
 from torch.utils.tensorboard import SummaryWriter
 from abc import ABC, abstractmethod
 from tqdm import tqdm
@@ -24,9 +25,18 @@ class AbstractAgent(ABC):
         pass
 
     @abstractmethod
+    @Overload
+    @signature("dqn")
     def add_experience(self, state: np.ndarray, action: int,
                        done: bool, reward: float, state_: np.ndarray,
                        priority: bool = True):
+        pass
+
+    @abstractmethod
+    @Overload
+    @signature("ppo")
+    def add_experience(self, state: np.ndarray, action: int, reward: float,
+                       done: bool, probs: np.ndarray, vals: np.ndarray):
         pass
 
     @abstractmethod
@@ -166,7 +176,7 @@ class PPOAgent(AbstractAgent):
     def __init__(self, alpha: float, gamma: float, gae_lambda: float, clip_epsilon: float,
                  cnn_channel: Sequence[int], input_dims: Sequence[int],
                  fc_1_dims: int, fc_2_dims: int, n_actions: int, eps: float, eps_min: float, eps_dec: float,
-                 batch_size: int, replace_target: int = 1000, chkpt_dir="tmp/ppo",
+                 batch_size: int, n_epochs: int, replace_target: int = 1000, chkpt_dir="tmp/ppo",
                  summary_writer: SummaryWriter = None):
         self.gamma = gamma
         self.epsilon = eps
@@ -176,6 +186,7 @@ class PPOAgent(AbstractAgent):
         self.eps_dec = eps_dec
         self.action_space = [i for i in range(n_actions)]
         self.learn_step_counter = 0
+        self.n_epochs = n_epochs
         self.batch_size = batch_size
         self.replace_target = replace_target
         self.chkpt_dir = chkpt_dir
@@ -186,46 +197,48 @@ class PPOAgent(AbstractAgent):
                                   cnn_channel, chkpt_dir=chkpt_dir)
         self.critic = CriticNetwork
 
-    def add_experience(self, state: np.ndarray, action: int,
-                       done: bool, reward: float, state_: np.ndarray,
-                       priority: bool = True):
-        self.memory.store_memory(state, action, reward, state_, done)
+    def add_experience(self, state: np.ndarray, action: int, reward: float,
+                       done: bool, probs: np.ndarray, vals: np.ndarray):
+        self.memory.store_memory(state, action, reward, done, probs, vals)
 
     def learn(self, entropy_regularization: float = .0):
-        states, actions, probs, values, rewards, dones, batches = self.memory.generate_batches()
-        iterator = tqdm(batches, total=len(batches))
 
-        advantage: np.ndarray = self._compute_gae_advantage(rewards, values, dones)
+        epoch_iterator = tqdm(range(self.n_epochs), total=self.n_epochs, desc="PPO Learning")
+        for _ in epoch_iterator:
+            states, actions, probs, values, rewards, dones, batches = self.memory.generate_batches()
+            iterator = tqdm(batches, total=len(batches), desc="PPO Batches")
 
-        for batch in iterator:
-            states_tensor = torch.tensor(states[batch], dtype=torch.float).to(self.actor.device)
-            old_log_probs_tensor = torch.tensor(probs[batch], dtype=torch.float).to(self.actor.device)
+            advantage: np.ndarray = self._compute_gae_advantage(rewards, values, dones)
 
-            value_estimate: torch.Tensor = self.critic.forward(states_tensor)
-            returns = advantage[batch] + values[batch]
-            dist = self.actor.forward(states_tensor)
-            log_prob = dist.log_prob(torch.tensor(actions).to(self.actor.device))
-            ratio = torch.exp(log_prob - old_log_probs_tensor)
+            for batch in iterator:
+                states_tensor = torch.tensor(states[batch], dtype=torch.float).to(self.actor.device)
+                old_log_probs_tensor = torch.tensor(probs[batch], dtype=torch.float).to(self.actor.device)
 
-            advantage_tensor = torch.tensor(advantage, dtype=torch.float32, device=self.actor.device)
-            clipped_probs = torch.clamp(ratio, 1 - self.clip_epsilon, 1 + self.clip_epsilon)
-            objective = torch.min(ratio * advantage_tensor,
-                                  clipped_probs * advantage_tensor)
+                value_estimate: torch.Tensor = self.critic.forward(states_tensor)
+                returns = advantage[batch] + values[batch]
+                dist = self.actor.forward(states_tensor)
+                log_prob = dist.log_prob(torch.tensor(actions).to(self.actor.device))
+                ratio = torch.exp(log_prob - old_log_probs_tensor)
 
-            objective += entropy_regularization * self._compute_entropy(log_prob)
+                advantage_tensor = torch.tensor(advantage, dtype=torch.float32, device=self.actor.device)
+                clipped_probs = torch.clamp(ratio, 1 - self.clip_epsilon, 1 + self.clip_epsilon)
+                objective = torch.min(ratio * advantage_tensor,
+                                      clipped_probs * advantage_tensor)
 
-            actor_loss = -torch.mean(objective)
+                objective += entropy_regularization * self._compute_entropy(log_prob)
 
-            critic_loss = torch.mean((torch.tensor(returns, dtype=torch.float32, device=self.actor.device)
-                                      - value_estimate) ** 2)
+                actor_loss = -torch.mean(objective)
 
-            self.actor.optimizer.zero_grad()
-            actor_loss.backward()
-            self.actor.optimizer.step()
+                critic_loss = torch.mean((torch.tensor(returns, dtype=torch.float32, device=self.actor.device)
+                                          - value_estimate) ** 2)
 
-            self.critic.optimizer.zero_grad()
-            critic_loss.backward()
-            self.critic.optimizer.step()
+                self.actor.optimizer.zero_grad()
+                actor_loss.backward()
+                self.actor.optimizer.step()
+
+                self.critic.optimizer.zero_grad()
+                critic_loss.backward()
+                self.critic.optimizer.step()
 
     def _compute_entropy(self, log_probs: torch.Tensor) -> torch.Tensor:
         return -torch.sum(log_probs.exp() * log_probs)
@@ -254,7 +267,6 @@ class PPOAgent(AbstractAgent):
 
         return value.item(), action.item(), log_prob.item()
 
-
     def save_models(self):
         if os.path.exists(self.chkpt_dir) is False:
             os.makedirs(self.chkpt_dir)
@@ -265,7 +277,6 @@ class PPOAgent(AbstractAgent):
     def load_models(self):
         self.actor.load_checkpoint()
         self.critic.load_checkpoint()
-
 
     def replace_target_network(self):
         pass
