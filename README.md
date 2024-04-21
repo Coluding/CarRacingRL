@@ -24,6 +24,9 @@ However, please note that the results are not final and are subject to change. S
 
 https://github.com/Coluding/RL-Trial/assets/98786106/b30f533a-3478-4c08-b861-13a61ec60b57
 
+\\
+
+https://github.com/Coluding/RL-Trial/assets/98786106/e7540fd6-1888-4dce-abc6-bcae4475e042
 
 
 Here is an example of the Car-Racing agent after around 800 episodes of training. The agent is able to drive around the track, but it is not able to complete a full lap. The agent is still learning and I am working on improving it. I cut the video just to display a couple hundred steps. This agent was trained using PPO. I tried with DDQL, however the learning was way more sensitive to hyperparameter and less robust. 
