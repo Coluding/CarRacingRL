@@ -22,7 +22,12 @@ The algorithms I am using are:
 The results of the experiments are stored in the runs and videos folders. The runs folder contains the training logs and the videos folder contains the videos of the trained agents.
 However, please note that the results are not final and are subject to change. STake for example the Car-Racing agent. I was able to train it to a certain level of performance, but I am still working on improving it.
 
-https://github.com/Coluding/CarRacingRL/assets/98786106/ff6b3548-8ecb-4576-825e-43e63f06adac
+https://github.com/
+
+https://github.com/Coluding/RL-Trial/assets/98786106/c48a0cbb-8c57-4719-b14a-bb4388a2dfd7
+
+Coluding/CarRacingRL/assets/98786106/ff6b3548-8ecb-4576-825e-43e63f06adac
+
 
 Here is an example of the Car-Racing agent after 51 episodes of training. The agent is able to drive around the track, but it is not able to complete a full lap. The agent is still learning and I am working on improving it. I cut the video just to display a couple hundred steps. This agent was trained using DDQN, I plan on training with PPO with an entropy regularization.
 
