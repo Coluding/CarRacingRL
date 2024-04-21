@@ -22,7 +22,6 @@ The algorithms I am using are:
 The results of the experiments are stored in the runs and videos folders. The runs folder contains the training logs and the videos folder contains the videos of the trained agents.
 However, please note that the results are not final and are subject to change. STake for example the Car-Racing agent. I was able to train it to a certain level of performance, but I am still working on improving it. Nevertheless. there are already some interesting strategies found by the agent. Currently, it is learning how get consistently back on the road, when it missed a turn. Furthermore, the agent does not understand yet to brake in sharp turns. Either way, this behavior is not surprising given the fact that the agent was only trained for about 30k steps. Good results require around one million steps which is why I keep training it right now.
 
-Sharp turns problems:
 https://github.com/Coluding/RL-Trial/assets/98786106/b30f533a-3478-4c08-b861-13a61ec60b57
 
 
